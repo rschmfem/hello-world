@@ -1,2 +1,4 @@
 # hello-world
-Just a simple repository
+
+RSchmFem here! I am new to GitHub and going through the Tutorial!
+This is fun so far!
